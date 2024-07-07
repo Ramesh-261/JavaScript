@@ -1,4 +1,4 @@
-// console.log("sfafaf");
+//console.log("Hello JS");
 // for (let i = 0; i < 5; i++) {
 //     console.log(i);
 // }
@@ -13,3 +13,7 @@
 //     console.log(j);
 //     j++;
 // } while (j < 5);
+var a=10;
+a=20;
+a=2.4
+console.log(a);
