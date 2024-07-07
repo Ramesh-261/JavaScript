@@ -21,3 +21,11 @@
 // a=11;
 // a=1;
 // console.log(a);
+var a=10;
+var b=9;
+var add=a+b;
+var sub=a-b;
+var mul=a*b;
+var div=a/b;
+var modu=a%b;
+console.log(add,sub,mul,div,modu);
