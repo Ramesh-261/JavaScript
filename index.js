@@ -13,7 +13,11 @@
 //     console.log(j);
 //     j++;
 // } while (j < 5);
-var a=10;
-a=20;
-a=2.4
-console.log(a);
+// var a=10;
+// a=20.22;
+// a="Ramesh Kumar";
+// console.log(a);
+// let a=12;
+// a=11;
+// a=1;
+// console.log(a);
