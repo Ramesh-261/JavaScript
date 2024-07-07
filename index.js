@@ -35,6 +35,20 @@
 // add+=2;
 // console.log(add);
 
-var a="Ramesh";
-var b="Kumar";
-console.log(a+" " +b);
+// var a="Ramesh";
+// var b="Kumar";
+// console.log(a+" " +b);
+
+// var a;
+// let b;
+// const c;
+// // console.log(a);
+// // console.log(b);
+// console.log(c);
+
+var carName = "Volvo";
+var carName;
+var a;
+var name;
+console.log(carName);
+
