@@ -21,11 +21,20 @@
 // a=11;
 // a=1;
 // console.log(a);
-var a=10;
-var b=9;
-var add=a+b;
-var sub=a-b;
-var mul=a*b;
-var div=a/b;
-var modu=a%b;
-console.log(add,sub,mul,div,modu);
+
+// var a=10;
+// var b=9;
+// var add=a+b;
+// var sub=a-b;
+// var mul=a*b;
+// var div=a/b;
+// var modu=a%b;
+// console.log(add,sub,mul,div,modu);
+// add++;
+// console.log(add);
+// add+=2;
+// console.log(add);
+
+var a="Ramesh";
+var b="Kumar";
+console.log(a+" " +b);
