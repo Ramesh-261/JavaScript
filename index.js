@@ -70,3 +70,6 @@
 // console.log(name.length);
 // console.log(name[name.length-1]);
 
+var str="Ramesh Kumar";
+console.log(str.indexOf('s'));//provide the index
+console.log(str.charAt(0),str[0]);//provide char
