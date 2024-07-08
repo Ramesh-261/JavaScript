@@ -46,9 +46,27 @@
 // // console.log(b);
 // console.log(c);
 
-var carName = "Volvo";
-var carName;
-var a;
-var name;
-console.log(carName);
+// var carName = "Volvo";
+// var carName;
+// var a;
+// var name;
+// console.log(carName);
+
+// let c=12;
+// let c;
+// console.log(c);
+
+// var a=4;
+// var b="5";
+// console.log(a+b,a*b,a-b,a%b,a/b);
+
+//Escape char used:
+// var str="fff \"cfdffffd\"";
+// console.log(str);
+
+//string opr
+// var name="Ramesh kumar";
+// console.log(name[11]);
+// console.log(name.length);
+// console.log(name[name.length-1]);
 
