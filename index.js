@@ -77,3 +77,13 @@
 // const c=11;
 // c=2;
 // console.log(c);
+
+//FUNCTION IN JAVASCRIPT
+
+//FUNCTION 
+
+function sum(a,b){
+    return a+b;
+}
+var ans=sum(2,3);
+console.log(ans);
