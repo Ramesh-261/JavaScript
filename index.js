@@ -111,9 +111,16 @@
 // console.log(arr.push(15));//it return the length of array; after pushing the element into the arr
 // console.log(arr);
 
-var arr=[12,13,14,15];
-console.log(arr.pop());
-console.log(arr.pop());//return which value is remove from the arr only/..
-console.log(arr.pop());
-console.log(arr.pop());
+// var arr=[12,13,14,15];
+// console.log(arr.pop());
+// console.log(arr.pop());//return which value is remove from the arr only/..
+// console.log(arr.pop());
+// console.log(arr.pop());
+// console.log(arr);
+
+
+//splice() function is used. to remove the element from any where and it return the array(remove element)
+var arr=[1,2,3,4,5];
+var ret=arr.splice(1,2);
 console.log(arr);
+console.log(ret);
