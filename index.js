@@ -82,8 +82,20 @@
 
 //FUNCTION 
 
-function sum(a,b){
-    return a+b;
-}
-var ans=sum(2,3);
-console.log(ans);
+// function sum(a,b){
+//     return a+b;
+// }
+// var ans=sum(2,3);
+// console.log(ans);
+
+//function HOISTING in JavaScript
+// sum(2,1);
+// function sum(a,b){
+//     console.log(a+b);
+// }
+
+//normal function here
+// var sum=function(a,b){
+//     console.log(a+b);
+// }
+// sum(1,2);
