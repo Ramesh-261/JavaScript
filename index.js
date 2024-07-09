@@ -99,3 +99,21 @@
 //     console.log(a+b);
 // }
 // sum(1,2);
+
+//ARRAY Function;
+// var cities=["patna","bihar","delhi","up"];
+// cities[4]="Uk"
+// cities[4]="fsdff";
+// console.log(cities.length,cities);
+
+// var arr=[12,13,14,15];
+// arr.push(15);
+// console.log(arr.push(15));//it return the length of array; after pushing the element into the arr
+// console.log(arr);
+
+var arr=[12,13,14,15];
+console.log(arr.pop());
+console.log(arr.pop());//return which value is remove from the arr only/..
+console.log(arr.pop());
+console.log(arr.pop());
+console.log(arr);
