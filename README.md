@@ -18,4 +18,7 @@ SPLICE() function used to remove value from anywhere from the array..
 it return the array to remove from the current arrya.
 ![image](https://github.com/Rameshprajapati261/JavaScript/assets/134092313/3caf36cc-7a5c-4398-9863-b435bf6dc3bc)
 ![image](https://github.com/Rameshprajapati261/JavaScript/assets/134092313/998ebbda-388a-4c91-b013-c3a3b5468e3e)
+![image](https://github.com/Rameshprajapati261/JavaScript/assets/134092313/f9cdcbe9-df54-4148-8fdf-06c6cc114251)
+![image](https://github.com/Rameshprajapati261/JavaScript/assets/134092313/d8272523-0b06-482c-b6ac-1250c1d5275c)
+![image](https://github.com/Rameshprajapati261/JavaScript/assets/134092313/680c3e8d-31fa-41f2-9c35-79db61b73f3f)
 
