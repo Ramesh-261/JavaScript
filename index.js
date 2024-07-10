@@ -120,7 +120,12 @@
 
 
 //splice() function is used. to remove the element from any where and it return the array(remove element)
-var arr=[1,2,3,4,5];
-var ret=arr.splice(1,2);
-console.log(arr);
-console.log(ret);
+// var arr=[1,2,3,4,5];
+// var ret=arr.splice(1,2);
+// console.log(arr);
+// console.log(ret);
+
+const fruits = ["Banana", "Orange", "Apple", "Mango"];
+for(let i=0;i<fruits.length;i++){
+    console.log(fruits[i]);
+}
