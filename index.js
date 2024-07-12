@@ -125,7 +125,16 @@
 // console.log(arr);
 // console.log(ret);
 
-const fruits = ["Banana", "Orange", "Apple", "Mango"];
-for(let i=0;i<fruits.length;i++){
-    console.log(fruits[i]);
-}
+// const fruits = ["Banana", "Orange", "Apple", "Mango"];
+// for(let i=0;i<fruits.length;i++){
+//     console.log(fruits[i]);
+// }
+
+// var arr=[1,2,3,4,33]
+// console.log(arr);
+// arr.reverse();
+// console.log(arr);
+
+var arr=[1,2,11,3,44];
+var joi=arr.join('-');
+console.log(joi);
