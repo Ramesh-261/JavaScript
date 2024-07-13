@@ -28,5 +28,6 @@ for access the nested object ..
 delete the object
 ![image](https://github.com/user-attachments/assets/099aa0b0-8ea2-49ac-84de-f4dc37a91a48)
 ![image](https://github.com/user-attachments/assets/99cbdfd1-c444-4f62-8fab-9ef76061751f)
+![image](https://github.com/user-attachments/assets/47cc707b-c2b5-4148-963c-30af5085e227)
 
 
