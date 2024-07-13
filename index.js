@@ -135,6 +135,23 @@
 // arr.reverse();
 // console.log(arr);
 
-var arr=[1,2,11,3,44];
-var joi=arr.join('-');
-console.log(joi);;;
+// var arr=[1,2,11,3,44];
+// var joi=arr.join('-');
+// console.log(joi);;;
+
+//object data st(r).
+
+// var person={};
+// console.log(person);  declare the object;
+
+// var person1={
+//     name:"ramesh",  another type to declare to the object
+//     age:23,
+//     sex:"male"
+// };
+// console.log(person1);
+
+var person2={};
+person2.name="Ramesh"; //good method to declared the object
+person2.age=24;
+console.log(person2);
