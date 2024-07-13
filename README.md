@@ -31,5 +31,6 @@ delete the object
 ![image](https://github.com/user-attachments/assets/47cc707b-c2b5-4148-963c-30af5085e227)
 return true and false values
 ![image](https://github.com/user-attachments/assets/71636304-25de-4ba4-944e-edb31296d7ac)
+![image](https://github.com/user-attachments/assets/26b59681-304e-42ff-9185-5e9e3a7295af)
 
 
