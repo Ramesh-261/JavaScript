@@ -25,5 +25,7 @@ it return the array to remove from the current arrya.
 ![image](https://github.com/user-attachments/assets/b37f5f72-8ac6-4aaa-b716-e3f1cf5ccacf)
 for access the nested object ..
 ![image](https://github.com/user-attachments/assets/75229970-eba7-4e15-9f7f-5838e62d128a)
+delete the object
+![image](https://github.com/user-attachments/assets/099aa0b0-8ea2-49ac-84de-f4dc37a91a48)
 
 
