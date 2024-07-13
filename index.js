@@ -160,11 +160,23 @@
 
 //Assecing the object another method
 
-var person2={};
-person2.name="Ramesh";
-person2["age"]=23;
-//console.log(person2);
-//console.log(person2["name"]);
+// var person2={};
+// person2.name="Ramesh";
+// person2["age"]=23;
+// //console.log(person2);
+// //console.log(person2["name"]);
 
-var property="name";
-console.log(person2[property]);
+// var property="name";
+// console.log(person2[property]);
+
+var person={};
+person.name="Ramesh";
+person.age=24;
+person.mobiles={};
+person.mobiles.home=8318569685;
+person.mobiles.office=9198641283;
+console.log(person);
+console.log(person.mobiles);
+person.cities=["jaipur","delhi"];
+console.log(person.cities[1]);
+
