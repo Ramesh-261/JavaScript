@@ -169,14 +169,20 @@
 // var property="name";
 // console.log(person2[property]);
 
-var person={};
-person.name="Ramesh";
-person.age=24;
-person.mobiles={};
-person.mobiles.home=8318569685;
-person.mobiles.office=9198641283;
-console.log(person);
-console.log(person.mobiles);
-person.cities=["jaipur","delhi"];
-console.log(person.cities[1]);
+// var person={};
+// person.name="Ramesh";
+// person.age=24;
+// person.mobiles={};
+// person.mobiles.home=8318569685;
+// person.mobiles.office=9198641283;
+// console.log(person);
+// console.log(person.mobiles);
+// person.cities=["jaipur","delhi"];
+// console.log(person.cities[1]);
 
+var name="0";
+if(name===0){
+    console.log("matches");
+}else{
+    console.log('not matches');
+}
