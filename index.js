@@ -151,7 +151,20 @@
 // };
 // console.log(person1);
 
+// var person2={};
+// person2.name="Ramesh"; //good method to declared the object
+// person2.age=24;
+// person2.course="B.tech"
+// console.log(person2); //all property to print
+// console.log(person2.age);//single property to print
+
+//Assecing the object another method
+
 var person2={};
-person2.name="Ramesh"; //good method to declared the object
-person2.age=24;
-console.log(person2);
+person2.name="Ramesh";
+person2["age"]=23;
+//console.log(person2);
+//console.log(person2["name"]);
+
+var property="name";
+console.log(person2[property]);
