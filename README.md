@@ -23,4 +23,7 @@ it return the array to remove from the current arrya.
 ![image](https://github.com/Rameshprajapati261/JavaScript/assets/134092313/680c3e8d-31fa-41f2-9c35-79db61b73f3f)
 ![image](https://github.com/Rameshprajapati261/JavaScript/assets/134092313/942167fd-844f-4555-ad34-c0bc334668b9)
 ![image](https://github.com/user-attachments/assets/b37f5f72-8ac6-4aaa-b716-e3f1cf5ccacf)
+for access the nested object ..
+![image](https://github.com/user-attachments/assets/75229970-eba7-4e15-9f7f-5838e62d128a)
+
 
