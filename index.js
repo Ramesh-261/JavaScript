@@ -180,9 +180,28 @@
 // person.cities=["jaipur","delhi"];
 // console.log(person.cities[1]);
 
-var name="0";
-if(name===0){
-    console.log("matches");
-}else{
-    console.log('not matches');
-}
+// var name="0";
+// if(name===0){
+//     console.log("matches");
+// }else{
+//     console.log('not matches');
+// }
+
+// var x=5;
+// x++;
+// console.log(x);
+
+// var name="Ram";
+// var ans=name.length>5 ? "Too long" : "Short " ;
+// console.log(ans);
+
+// let age = 18;
+// let message = (age >= 18) ? "You are an adult." : "You are a minor.";
+// console.log(message); // Output: You are an adult.
+
+var name="Ramesh";
+var num=45;
+console.log(typeof(num));
+console.log(typeof(name));
+console.log(typeof({}));
+console.log(typeof([]));
