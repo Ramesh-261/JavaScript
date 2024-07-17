@@ -33,5 +33,12 @@ return true and false values
 ![image](https://github.com/user-attachments/assets/71636304-25de-4ba4-944e-edb31296d7ac)
 ![image](https://github.com/user-attachments/assets/26b59681-304e-42ff-9185-5e9e3a7295af)
 ![image](https://github.com/user-attachments/assets/25b30a81-e35a-48cc-84e1-bbd726eb7c7f)
+![image](https://github.com/user-attachments/assets/4c4d3469-de38-4f2c-9aa8-c5d7167fc307)
+![image](https://github.com/user-attachments/assets/d6fc7848-6f30-4686-9cf5-2a9e152d86b3)
+![image](https://github.com/user-attachments/assets/bf68ff04-37a0-4b76-9634-26513cf290ac)
+![image](https://github.com/user-attachments/assets/1565c810-b522-4c1b-a368-fcf59910e44d)
+![image](https://github.com/user-attachments/assets/a021e32a-e756-45a4-9fc6-5128e086e9b9)
+![image](https://github.com/user-attachments/assets/be3dfc9c-5dc2-4371-b755-0519ce4129bb)
+![image](https://github.com/user-attachments/assets/fc5a9978-ab1f-4856-821a-e0b3f9d8a443)
 
 
