@@ -207,10 +207,16 @@
 // console.log(typeof({}));
 // console.log(typeof([]));
 
-var name="12";
-var num=parseInt(name);
-console.log(typeof(num));
+// var name="12";
+// var num=parseInt(name);
+// console.log(typeof(num));
 
-var num=5;
-var name=num.toString();
-console.log(typeof(name));
+// var num=5;
+// var name=num.toString();
+// console.log(typeof(name));
+
+//split();.
+var name="youstart is a good plateform";
+var ans=name.split("e"); //for use occurences of element;
+console.log(ans);
+console.log(ans.length-1)
