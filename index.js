@@ -234,6 +234,12 @@
 // console.log(name);
 
 //strings r immutable in nature but use replace funtiction to change it
+// var name="RameshR";
+// var ans=name.replace("R","S");//only first R is change i.e all change using global thingh
+// console.log(ans);
+
+//function chaining concepts
+//used to reverse the string.
 var name="Ramesh";
-var ans=name.replace("R","S");
-console.log(ans);
+var rev=name.split("").reverse().join("");
+console.log(rev);
