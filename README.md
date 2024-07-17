@@ -40,5 +40,7 @@ return true and false values
 ![image](https://github.com/user-attachments/assets/a021e32a-e756-45a4-9fc6-5128e086e9b9)
 ![image](https://github.com/user-attachments/assets/be3dfc9c-5dc2-4371-b755-0519ce4129bb)
 ![image](https://github.com/user-attachments/assets/fc5a9978-ab1f-4856-821a-e0b3f9d8a443)
+![image](https://github.com/user-attachments/assets/6cf6543a-9818-4cb1-b200-f640b9e55c90)
+![image](https://github.com/user-attachments/assets/d23a8015-c1ba-4b9b-8aed-7f931407e1f2)
 
 
