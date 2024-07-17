@@ -215,8 +215,25 @@
 // var name=num.toString();
 // console.log(typeof(name));
 
-//split();.
-var name="youstart is a good plateform";
-var ans=name.split("e"); //for use occurences of element;
+// //split();.
+// var name="youstart is a good plateform";
+// var ans=name.split("e"); //for use occurences of element;
+// console.log(ans);
+// console.log(ans.length-1)
+
+//uppercase and lowercase
+
+// var name="RAMESH";
+// //console.log(name.toUpperCase());
+// console.log(name.toLowerCase());
+
+//strings r immutable in nature but only reassign it
+// var name="Ramesh";
+// //console.log(name[0]);
+// name[0]="S";
+// console.log(name);
+
+//strings r immutable in nature but use replace funtiction to change it
+var name="Ramesh";
+var ans=name.replace("R","S");
 console.log(ans);
-console.log(ans.length-1)
