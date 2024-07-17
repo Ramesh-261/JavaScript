@@ -199,9 +199,18 @@
 // let message = (age >= 18) ? "You are an adult." : "You are a minor.";
 // console.log(message); // Output: You are an adult.
 
-var name="Ramesh";
-var num=45;
+//typeof() function to use check type
+// var name="Ramesh";
+// var num=45;
+// console.log(typeof(num));
+// console.log(typeof(name));
+// console.log(typeof({}));
+// console.log(typeof([]));
+
+var name="12";
+var num=parseInt(name);
 console.log(typeof(num));
+
+var num=5;
+var name=num.toString();
 console.log(typeof(name));
-console.log(typeof({}));
-console.log(typeof([]));
