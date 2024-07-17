@@ -32,5 +32,6 @@ delete the object
 return true and false values
 ![image](https://github.com/user-attachments/assets/71636304-25de-4ba4-944e-edb31296d7ac)
 ![image](https://github.com/user-attachments/assets/26b59681-304e-42ff-9185-5e9e3a7295af)
+![image](https://github.com/user-attachments/assets/25b30a81-e35a-48cc-84e1-bbd726eb7c7f)
 
 
