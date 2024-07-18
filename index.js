@@ -278,5 +278,13 @@
 //   clearInterval(id);
 // },3000);
 
-// console.log(id);
+//  console.log(id);
+
+var name="Ramesh"; //global scope.
+function fun(){
+    var name="Shruti";  // it creare new local scope.
+    console.log(name);
+}
+fun();
+console.log(name);
 
