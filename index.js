@@ -266,4 +266,17 @@
 // }
 // console.log(calc(sum,4,3));
 
+// setTimeout(function(){  // callback function and annominous function
+//   console.log("Ramesh");
+// },3000)
+// console.log("Shruti");
+
+// setInterval(fx,3000);//it always excute after 3 sec and also callback function;
+
+// var id=setInterval(function(){
+//   console.log("Shruti");
+//   clearInterval(id);
+// },3000);
+
+// console.log(id);
 
