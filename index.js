@@ -2,6 +2,8 @@
 // for (let i = 0; i < 5; i++) {
 //     console.log(i);
 // }
+
+
 // let i = 1;
 // while (i < 5) {
 //     console.log(i);
@@ -13,6 +15,8 @@
 //     console.log(j);
 //     j++;
 // } while (j < 5);
+
+
 // var a=10;
 // a=20.22;
 // a="Ramesh Kumar";
@@ -72,9 +76,9 @@
 
 // var str="Ramesh Kumar";
 // console.log(str.indexOf('s'));//provide the index
-// console.log(str.charAt(0),str[0]);//provide char
+// console.log(str.charAt(0),str[0]);//provide char two ways written already
 
-// const c=11;
+// const c=11; //reinitialization  is not possible
 // c=2;
 // console.log(c);
 
@@ -102,8 +106,8 @@
 
 //ARRAY Function;
 // var cities=["patna","bihar","delhi","up"];
-// cities[4]="Uk"
-// cities[4]="fsdff";
+// cities[4]="Ukcsc"
+// cities[5]="fsdff";
 // console.log(cities.length,cities);
 
 // var arr=[12,13,14,15];
@@ -113,17 +117,17 @@
 
 // var arr=[12,13,14,15];
 // console.log(arr.pop());
-// console.log(arr.pop());//return which value is remove from the arr only/..
-// console.log(arr.pop());
-// console.log(arr.pop());
-// console.log(arr);
+// // console.log(arr.pop());//return which value is remove from the arr only/..
+// // console.log(arr.pop());
+// // console.log(arr.pop());
+// // console.log(arr);
 
 
 //splice() function is used. to remove the element from any where and it return the array(remove element)
 // var arr=[1,2,3,4,5];
 // var ret=arr.splice(1,2);
 // console.log(arr);
-// console.log(ret);
+//  console.log(ret);
 
 // const fruits = ["Banana", "Orange", "Apple", "Mango"];
 // for(let i=0;i<fruits.length;i++){
@@ -240,6 +244,6 @@
 
 //function chaining concepts
 //used to reverse the string.
-var name="Ramesh";
-var rev=name.split("").reverse().join("");
-console.log(rev);
+// var name="Ramesh";
+// var rev=name.split("").reverse().join("");
+// console.log(rev);
