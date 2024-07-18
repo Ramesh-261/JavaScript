@@ -206,7 +206,7 @@
 // let message = (age >= 18) ? "You are an adult." : "You are a minor.";
 // console.log(message); // Output: You are an adult.
 
-//typeof() function to use check type
+//typeof() function to use to check datatype.
 // var name="Ramesh";
 // var num=45;
 // console.log(typeof(num));
@@ -250,3 +250,18 @@
 // var name="Ramesh";
 // var rev=name.split("").reverse().join("");
 // console.log(rev);
+
+// in js function is an object due to it assign into the variable so that it follow.
+//concepts of callback function...
+
+// A callback is a function passed as an argument to another function
+// This technique allows a function to call another function
+// A callback function can run after another function has finished
+
+var calc=function(sum,a,b) {
+    return sum(a,b);
+}
+var sum=function(a,b) {
+    return a+b;
+}
+console.log(calc(sum,4,3));
