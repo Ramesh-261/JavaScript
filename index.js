@@ -258,10 +258,12 @@
 // This technique allows a function to call another function
 // A callback function can run after another function has finished
 
-var calc=function(sum,a,b) {
-    return sum(a,b);
-}
-var sum=function(a,b) {
-    return a+b;
-}
-console.log(calc(sum,4,3));
+// var calc=function(sum,a,b) {
+//     return sum(a,b);
+// }
+// var sum=function(a,b) {
+//     return a+b;
+// }
+// console.log(calc(sum,4,3));
+
+
