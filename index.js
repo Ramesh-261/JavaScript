@@ -141,15 +141,15 @@
 
 // var arr=[1,2,11,3,44];
 // var joi=arr.join('-');
-// console.log(joi);;;
+// console.log(joi);
 
 //object data st(r).
 
 // var person={};
-// console.log(person);  declare the object;
+// console.log(person);  //declare the object;
 
 // var person1={
-//     name:"ramesh",  another type to declare to the object
+//     name:"ramesh",  //another type to declare to the object
 //     age:23,
 //     sex:"male"
 // };
@@ -158,20 +158,23 @@
 // var person2={};
 // person2.name="Ramesh"; //good method to declared the object
 // person2.age=24;
-// person2.course="B.tech"
+// person2.course="B.tech";
+// person2.address="india";
 // console.log(person2); //all property to print
-// console.log(person2.age);//single property to print
+// console.log(person2.address);//single property to print
 
 //Assecing the object another method
 
 // var person2={};
 // person2.name="Ramesh";
 // person2["age"]=23;
-// //console.log(person2);
-// //console.log(person2["name"]);
+// console.log(person2);
+// console.log(person2["name"]);
 
 // var property="name";
 // console.log(person2[property]);
+
+//nested object is also created.
 
 // var person={};
 // person.name="Ramesh";
@@ -185,7 +188,7 @@
 // console.log(person.cities[1]);
 
 // var name="0";
-// if(name===0){
+// if(name===0){ //=== it check values as well as datatype also
 //     console.log("matches");
 // }else{
 //     console.log('not matches');
