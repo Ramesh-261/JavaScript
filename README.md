@@ -43,5 +43,8 @@ return true and false values
 ![image](https://github.com/user-attachments/assets/6cf6543a-9818-4cb1-b200-f640b9e55c90)
 ![image](https://github.com/user-attachments/assets/d23a8015-c1ba-4b9b-8aed-7f931407e1f2)
 ![image](https://github.com/user-attachments/assets/07da9327-3243-41fb-9f7a-0d46f6202b59)
+![image](https://github.com/user-attachments/assets/5210b736-cdbc-4a3e-8e85-119d5387df61)
+![image](https://github.com/user-attachments/assets/cc5a5fe1-1a22-4c9a-b7b2-7208b337cdeb)
+![image](https://github.com/user-attachments/assets/1e409083-f760-4251-8c5f-db26941e4b2d)
 
 
