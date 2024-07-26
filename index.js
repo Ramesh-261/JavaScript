@@ -271,20 +271,20 @@
 // },3000)
 // console.log("Shruti");
 
+
 // setInterval(fx,3000);//it always excute after 3 sec and also callback function;
 
 // var id=setInterval(function(){
 //   console.log("Shruti");
 //   clearInterval(id);
 // },3000);
-
 //  console.log(id);
 
-var name="Ramesh"; //global scope.
-function fun(){
-    var name="Shruti";  // it creare new local scope.
-    console.log(name);
-}
-fun();
-console.log(name);
+// var name="Ramesh"; //global scope.
+// function fun(){
+//     var name="Shruti";  // it create new local scope.
+//     console.log(name);
+// }
+// fun();
+// console.log(name);
 
