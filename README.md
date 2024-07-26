@@ -46,5 +46,7 @@ return true and false values
 ![image](https://github.com/user-attachments/assets/5210b736-cdbc-4a3e-8e85-119d5387df61)
 ![image](https://github.com/user-attachments/assets/cc5a5fe1-1a22-4c9a-b7b2-7208b337cdeb)
 ![image](https://github.com/user-attachments/assets/1e409083-f760-4251-8c5f-db26941e4b2d)
+for loop
+![image](https://github.com/user-attachments/assets/e6a0a5d8-ace2-49d2-b441-29999c327b89)
 
 
