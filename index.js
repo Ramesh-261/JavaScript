@@ -288,3 +288,16 @@
 // fun();
 // console.log(name);
 
+// var arr=[2,3,1];
+// for(let i=0;i<arr.length;i++){
+//     console.log(" "+arr[i]);
+// }
+
+// var cities=[
+//     {name:"mumbai",pop:1000}, //cities works as object we print also..
+//     {name:"delhi",pop:2000}
+// ]
+// for(let i=0;i<cities.length;i++){
+//         console.log(cities[i].name);
+//         console.log(cities[i].pop);
+//     }
