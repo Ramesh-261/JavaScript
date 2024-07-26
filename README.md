@@ -50,5 +50,7 @@ for loop
 ![image](https://github.com/user-attachments/assets/e6a0a5d8-ace2-49d2-b441-29999c327b89)
 for of loop
 ![image](https://github.com/user-attachments/assets/e982fd65-de56-4c71-a676-152446acc063)
+while loop
+![image](https://github.com/user-attachments/assets/f45ebb4a-c052-4485-93c3-90fb222af9b1)
 
 
