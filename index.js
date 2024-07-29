@@ -301,3 +301,33 @@
 //         console.log(cities[i].name);
 //         console.log(cities[i].pop);
 //     }
+
+// for of loop is used here
+// var arr=[2,3,1];
+// for(var num of arr){
+//     console.log(num);
+// }
+
+//object keys values || it is also called object constructor...
+
+// var person={name:"Ramesh",age:23,sex:"m/f"};
+// //console.log(Object.keys(person)); //access the key or attribute.
+// console.log(Object.values(person)); //access  the value of the key.
+
+//reference
+
+// var person={name:"Ramesh",age:23,sex:"m"};
+// var person1=person; //here we create refernce of the another var.
+// //console.log(person1);
+// person1.name="shruti";
+// person1.age=22;
+// person1.sex="f";
+// console.log(person1);
+
+// var arr=["mun","up"];
+// var arr1=arr;//here we create refernce of the another var.
+// arr1.pop();
+// console.log(arr1);
+
+
+
