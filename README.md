@@ -56,5 +56,7 @@ while loop
 object constructor.
 ![image](https://github.com/user-attachments/assets/e6dc4119-63cb-416e-bdf2-cc530bca5fe0)
 ![image](https://github.com/user-attachments/assets/3e4613fc-470a-40e5-8d75-a19bd2f36ce4)
+object copy from exiting object
+![image](https://github.com/user-attachments/assets/34b6216a-211f-4e77-a491-43cce6b24095)
 
 
